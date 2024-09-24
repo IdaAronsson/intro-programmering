@@ -1,5 +1,17 @@
 Ida Aronsson loggbok
 -------------
+## 24-09-24
+-------------
+Gjort:
+
+* 7050 uppgift 3
+* 7050 uppgift 4
+* 7050 uppgift 5
+* 7050 uppgift 6
+* 7050 uppgift 7
+* 7060 uppgift 1
+* 7060 uppgift 2
+----------------
 ## 24-09-13
 -------------
 Gjort: 
