@@ -1,6 +1,25 @@
 Ida Aronsson loggbok
 -------------
+## 14-09-24
+-------------
+* 7070 slumptal 
+* upggift 4
+-------------
+## 11-09-24
+-------------
+* 7070 slumptal 
+* uppgift 1
+* uppgift 2
+* uppgift 3
 ## 24-09-24
+-------------
+## 04-10-24
+* 7060 uppgift 1
+* 7060 uppgift 2
+* 7060 uppgift 3
+* 7061 uppgift 1
+* 7061 uppgift 2
+* 7061 uppggift 3
 -------------
 Gjort:
 
