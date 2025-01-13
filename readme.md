@@ -1,4 +1,5 @@
 Ida Aronsson loggbok
+* 25-1-13 (kommer inte ihåg datum)
 ------------
 * 7100 listor
 * uppgift 3 klar
