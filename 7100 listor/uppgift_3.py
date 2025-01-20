@@ -1,1 +1,2 @@
-ord = ["gul"]
+import random
+

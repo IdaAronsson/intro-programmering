@@ -1,5 +1,11 @@
 Ida Aronsson loggbok
-* 25-1-13 (kommer inte ihåg datum)
+25-01-20
+------------
+* 7080 listor 
+------------
+
+------------
+* 25-01-13 (kommer inte ihåg datum)
 ------------
 * 7100 listor
 * uppgift 3 klar
@@ -7,21 +13,21 @@ Ida Aronsson loggbok
 * uppgift 5 
 ------------
 ## 24-11-15
------------
+------------
 * 7100 listor
 * uppgift 1
 * uppgift 2
 * uppgift 3 Inte helt klar
 ------------
 ## 24-11-8
------------
+------------
 * uppgift 5 7905 klar
 * 7096 for each-slinga
 * uppgift 1
 * uppgift 2
 -------------
 ## 24-11-1
-------------
+-------------
 * 7095 for slingor range
 * uppgift 1
 * uppgift 2 
