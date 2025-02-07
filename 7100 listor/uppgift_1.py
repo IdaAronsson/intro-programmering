@@ -11,7 +11,7 @@ medel = sum(tärningar)/len(tärningar)
 print('medel: ',medel)
 print("antal sexor: ", tärningar.count(6))
 
-antal_sexor = 0
+antal_sexor=0
 for tärning in tärningar:
     if tärning == 6:
         antal_sexor = antal_sexor + 1

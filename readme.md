@@ -1,4 +1,18 @@
 Ida Aronsson loggbok
+25-07-03
+-----------
+* 16_Power Didgit Sum
+-----------
+25-02-03
+------------
+* Project Euler
+* 2_Even_Fobonacci_numbers
+* 10_summation of primes
+------------
+25-01-24
+------------
+* Gjort
+* 
 25-01-20
 ------------
 * 7080 listor 

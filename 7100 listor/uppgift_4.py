@@ -1,6 +1,13 @@
-import random #tärningar och kast
-def kasta_tärningar(antal_tärningar):
-    return [random.randint(1, 6)for _ in range(antal_tärningar)]
-#välj vilka tärningar som ska kastas
-def välj_tärningar(tärningar):
-    print(f"Tärningarna: {tärningar}")
+import random
+tärningar = [random.randint(1, 6) for i in range(5)]
+def ettor_till_sexor(dice,target):
+    return sum(i for i in dice i == target)
+def ett_par(dice):
+    for i in rage(6,0,-1):
+        if dice.count(i) >= 2:
+            return i*2
+def two_pairs(dice):
+    pairs []
+    for i in range
+
+    
