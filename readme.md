@@ -1,5 +1,11 @@
 Ida Aronsson loggbok
+-----------
+25-02-17
+----------
+* 3_Largest prime Factor
+* 7_10001st prime
 25-07-03
+-----------
 -----------
 * 16_Power Didgit Sum
 -----------
