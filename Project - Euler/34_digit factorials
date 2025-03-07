@@ -1,0 +1,10 @@
+import math # summan av fakulteter är samma som talet självt
+def tal(tal):
+    summa = 0 # sparar summan av fakaliteterna
+    for siffra in str(tal): #str för att kunna gå igenom varje siffra i talet
+        summa += math.facortial(int(siffra)) # omvandlar varje siffra till sträng
+    return summa == tal
+total_summa = 0 
+for tal in range(10, 50000): # går mellan talen 10 50 000
+    total_summa += tal # adderar fakuliteten till summan
+print("Summa av av alla ral är:" total_summa)

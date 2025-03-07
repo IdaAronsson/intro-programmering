@@ -1,0 +1,7 @@
+summa = 0 # skapar variabel som håller summan
+# loopa alla tal under 1000
+for tal in range(1,1000): # går igenom alla tal under 1000
+    if tal%3 == 0 or tal%5== 0:
+    # kolla om talet är ett multipel av 33 eller 5
+        summa += tal # lägg till talet till summan
+print("Summan av alla multiplar av 3 eller 5 under 1000:", summa)

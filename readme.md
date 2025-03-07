@@ -1,11 +1,14 @@
 Ida Aronsson loggbok
+25-03-07
+----------
+* Gjort färdigt 25_1000 digit fibonacci number
 25-02-24
 -----------
-* 25_1000 digit Fibonacci numer
+* 25_1000 digit Fibonacci number
 -----------
 25-02-17
 ----------
-* 3_Largest prime factor
+* 3_Largest prime factor 
 * 7_10001st prime Factor.py
 25-07-03
 -----------
