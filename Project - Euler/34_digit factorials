@@ -7,4 +7,4 @@ def tal(tal):
 total_summa = 0 
 for tal in range(10, 50000): # går mellan talen 10 50 000
     total_summa += tal # adderar fakuliteten till summan
-print("Summa av av alla ral är:" total_summa)
+print("Summa av av alla ral är:", total_summa)

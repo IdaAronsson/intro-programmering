@@ -1,0 +1,29 @@
+import math 
+
+print(math.factorial(3))
+
+summa = 0 
+for tal in range (10,1001):
+    if tal == sum(math.factorial(int(tal)) for tal in str(tal)):
+        print(tal)
+    summa = summa +5
+
+
+    '''
+    10
+    1! + 0! =? 10
+    gör 10 till text
+    summa = 0
+    För varje tecken i texten:
+        tecken ! läggs till summa
+    om summa = 10 bra
+    11
+    1! + 1! =? 11
+    
+    12
+    
+    13
+    
+    14
+    
+    '''

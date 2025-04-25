@@ -1,4 +1,12 @@
 Ida Aronsson loggbok
+25-04-25
+---------
+Gjort klar uppfift 12
+----------
+* Gjort klart 
+----------
+* Gjort klart Fibbonacci_tal_25
+* Gjort klart Smallest multiple
 25-03-07
 ----------
 * Gjort färdigt 25_1000 digit fibonacci number
