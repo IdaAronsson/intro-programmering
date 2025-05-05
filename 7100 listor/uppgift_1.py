@@ -16,3 +16,9 @@ for tärning in tärningar:
     if tärning == 6:
         antal_sexor = antal_sexor + 1
 print("antal sexor:", antal_sexor)
+for tärning in tärningar:
+    tärning= 7-tärning
+print(tärningar)
+for i in range(len(tärningar)):
+    tärningar[i]=7-tärningar[i]
+print(tärningar)

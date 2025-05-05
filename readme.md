@@ -1,15 +1,19 @@
 Ida Aronsson loggbok
+
+25-04-28
+---------
+* 
 25-04-25
 ---------
 Gjort klar uppfift 12
 ----------
-* Gjort klart 
+* Gjort klart 34_digit factorial
 ----------
 * Gjort klart Fibbonacci_tal_25
 * Gjort klart Smallest multiple
 25-03-07
 ----------
-* Gjort färdigt 25_1000 digit fibonacci number
+* Gjort klrt 25_1000 digit fibonacci number
 25-02-24
 -----------
 * 25_1000 digit Fibonacci number
@@ -18,8 +22,10 @@ Gjort klar uppfift 12
 ----------
 * 3_Largest prime factor 
 * 7_10001st prime Factor.py
+-----------
 25-07-03
 -----------
+* 1_multiples of 3 or 5
 -----------
 * 16_Power Didgit Sum
 -----------
@@ -31,8 +37,8 @@ Gjort klar uppfift 12
 ------------
 25-01-24
 ------------
-* Gjort
-* 
+* Gjort 
+------------
 25-01-20
 ------------
 * 7080 listor 
